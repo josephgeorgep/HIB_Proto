@@ -8,7 +8,7 @@
 #define RELAY_4_PIN 5
 
 // Hardcoded MAC address of the gateway
-uint8_t gatewayMacAddress[] = {0x24, 0x6F, 0x28, 0x01, 0x02, 0x03}; // Replace with your gateway's MAC
+uint8_t gatewayMacAddress[] = {0x24, 0x6F, 0x28, 0x01, 0x02, 0x03}; 
 
 // Structure to receive data
 typedef struct {
